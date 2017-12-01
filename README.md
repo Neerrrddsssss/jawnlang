@@ -1,2 +1,2 @@
 # jawnlang
-A Philly inspired programming langugae
+A Philly inspired programming language
